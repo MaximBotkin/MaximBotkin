@@ -5,7 +5,7 @@ Python Developer🐍
 ------------------
 
 * 🌍  I'm based in Novgorod the Great, Russia.
-* ✉️  You can contact me at [botkin150@gmail.com](mailto:botkin150@gmail.com)
+* ✉️  You can contact me at [botkin150@gmail.com](mailto:botkin150@gmail.com).
 * 🧠  I'm learning Django framework Python.
 
 ### Skills
