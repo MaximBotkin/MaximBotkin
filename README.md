@@ -4,9 +4,9 @@ Hi 👋 My name is Maxim Botkin
 Python Developer🐍
 ------------------
 
-* 🌍  I'm based in Novgorod the Great, Russia.
+* 🌍  I'm based in Saint Petersburg, Russia.
 * ✉️  You can contact me at [botkin150@gmail.com](mailto:botkin150@gmail.com).
-* 🧠  I'm learning Django framework Python.
+* 🧠  I'm currently learning Django framework Python.
 
 ### Skills
 
