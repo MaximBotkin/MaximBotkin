@@ -1,7 +1,7 @@
 Hi 👋 My name is Maxim Botkin
 =============================
 
-Python Developer🐍
+Backend Developer🐍
 ------------------
 
 * 🌍  I'm based in Saint Petersburg, Russia.
